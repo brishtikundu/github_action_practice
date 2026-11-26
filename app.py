@@ -1,5 +1,5 @@
 
-# This code is from https://github.com/LondheShubham153/flask-app-ecs/blob/main/app.py
+# This code is from https://github.com/LondheShubham153/flask-app-ecs/blob/main
 # Flask App
 
 from flask import Flask, render_template
